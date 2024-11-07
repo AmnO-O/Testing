@@ -1,0 +1,4 @@
+﻿  AI.cpp
+C:\Users\LAPTOP_CUA_NAM\SFML-Test\TestCode\TestCode\AI.cpp(179,44): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\LAPTOP_CUA_NAM\SFML-Test\TestCode\TestCode\AI.cpp(238,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  TestCode.vcxproj -> C:\Users\LAPTOP_CUA_NAM\SFML-Test\TestCode\x64\Debug\TestCode.exe
